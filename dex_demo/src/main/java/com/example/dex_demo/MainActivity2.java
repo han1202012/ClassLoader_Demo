@@ -10,6 +10,6 @@ public class MainActivity2 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.i("MainActivity2", "com.example.dex_demo.MainActivity2 onCreate");
+        Log.i("MainActivity2", "com.example.dex_demo.MainActivity2 onCreate 执行成功 !!!");
     }
 }
