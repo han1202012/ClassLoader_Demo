@@ -1,3 +1,4 @@
 rootProject.name = "ClassLoader_Demo"
 include ':app'
 include ':dex_demo'
+include ':groovy'
